@@ -26,3 +26,4 @@ void destroy(intVector *p);
 void empty(intVector *p);
 
 #endif
+
