@@ -1,5 +1,5 @@
-#ifndef vector_h
-#define vector_h
+#ifndef intVector_h
+#define intVector_h
 #include <stdio.h>
 #include <stdlib.h>
 #define INITIAL_CAPACITY 8
