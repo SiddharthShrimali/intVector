@@ -72,6 +72,7 @@ void reverse(intVector *p) {
 
 void destroy(intVector *p) {
     free(p->data);
+    p->data = NULL;
     p->size = 0;
     p->maxCapacity = 0;
 }
